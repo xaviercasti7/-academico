@@ -1,1 +1,1 @@
-# -academico
+# academico
